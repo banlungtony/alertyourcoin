@@ -45,5 +45,5 @@ if (!is_null($events['events'])) {
 	}
 }
 echo "OK";
-echo "<hr/>";
-echo $content;
+// echo "<hr/>";
+// echo $content;
