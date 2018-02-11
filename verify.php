@@ -14,4 +14,5 @@ curl_close($ch);
 
 echo $result;
 echo "<hr/>";
-echo $headers;
+// echo $headers;
+echo implode(" ",$headers);
